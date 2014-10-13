@@ -1,6 +1,6 @@
 var xmpp = require('simple-xmpp');
 var request = require('request');
-var config = require('config-heroku');
+var config = require('config');
 
 var jid = config.get('xmpp.jid');
 var password =  config.get('xmpp.password');
