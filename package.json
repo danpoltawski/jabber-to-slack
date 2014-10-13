@@ -1,0 +1,16 @@
+{
+  "name": "jabber-to-slack",
+  "version": "0.1.2",
+  "description": "A jabber to slack gateway",
+  "main": "jabber-to-slack.js",
+  "scripts": {
+    "start": "node jabber-to-slack.js"
+  },
+  "dependencies": {
+    "config": "^1.2.4",
+    "config-heroku": "^0.1.1-a",
+    "node-xmpp": "^1.0.0-alpha2",
+    "request": "^2.45.0",
+    "simple-xmpp": "^0.1.92"
+  }
+}

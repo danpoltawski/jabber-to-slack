@@ -1,0 +1,2 @@
+config/heroku.json
+node_modules/*

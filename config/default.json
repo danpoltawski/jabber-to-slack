@@ -1,0 +1,11 @@
+{"botname": "Logbot",
+"rooms": {"developers": "#test-devchat"},
+"xmpp": {
+    "jid": "me@myjabber.server.com",
+    "password": "1234",
+    "host": "jabber.server.com",
+    "port": 5222,
+    "conferenceserver": "conference.jabber.server.com"
+},
+"slack-token": "000-000-000-000"
+}
